@@ -2,6 +2,3 @@
 test-pr
 
 vip pro
-dm
-mia
-aaaa
